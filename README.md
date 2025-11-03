@@ -22,11 +22,11 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 | ------------------------- | --------------------------- | ------------------------- |
 | ![Bar](Resources/BarChart.png) | ![Line](Resources/LineChart.png) | ![Pie](Resources/PieChart.png) |
 
-| Area Chart                  | Rectangle / Heatmap               | Combined Chart                     |
-| --------------------------- | --------------------------------- | ----------------------------------- |
+| Area Chart                | Rectangle / Heatmap         | Combined Chart            |
+| ------------------------- | --------------------------- | ------------------------- |
 | ![Area](Resources/AreaChart.png) | ![Heatmap](Resources/HeatmapChart.png) | ![Combined](Resources/CombinedChart.png) |
 
-| Point Chart                 | RuleMark Chart                |
+| Point Chart               | RuleMark Chart              |
 | ------------------------- | --------------------------- | 
 | ![Bar](Resources/PointChart.png) | ![Line](Resources/RuleMarkChart.png) | 
 
