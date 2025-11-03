@@ -17,19 +17,17 @@ enum ChartType: CaseIterable, Identifiable {
     case pie
     case rule
     case lineAreaPoint
+    case chart3D
 }
 
 let chartsData: [ChartData] = [
     ChartData(name: "Bar", icon: "chart.bar", type: .bar),
-
-
-        ChartData(name: "Line", icon: "chart.line.uptrend.xyaxis", type: .line),
-        ChartData(name: "Area", icon: "mountain.2", type: .area),
-
-        ChartData(name: "Point", icon: "chart.dots.scatter", type: .point),
-        ChartData(name: "Heatmap", icon: "rectangle.grid.3x2", type: .heatmap),
-        ChartData(name: "Pie", icon: "chart.pie", type: .pie),
-        ChartData(name: "Rule", icon: "ruler", type: .rule),
-        ChartData(name: "Line+Area+Point", icon: "chart.line.text.clipboard", type: .lineAreaPoint)
-
-   ]
+    ChartData(name: "Line", icon: "chart.line.uptrend.xyaxis", type: .line),
+    ChartData(name: "Area", icon: "mountain.2", type: .area),
+    ChartData(name: "Point", icon: "chart.dots.scatter", type: .point),
+    ChartData(name: "Heatmap", icon: "rectangle.grid.3x2", type: .heatmap),
+    ChartData(name: "Pie", icon: "chart.pie", type: .pie),
+    ChartData(name: "Rule", icon: "ruler", type: .rule),
+    ChartData(name: "Line+Area+Point", icon: "chart.line.text.clipboard", type: .lineAreaPoint),
+    ChartData(name: "3D", icon: "graph.3d", type: .chart3D)
+]

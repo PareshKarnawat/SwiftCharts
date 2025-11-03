@@ -29,17 +29,18 @@ struct SwiftChartList: View {
 }
 
 @ViewBuilder
-  func chartView(for type: ChartType) -> some View {
-      switch type {
-      case .bar: BarChartMainView()
-      case .line: LineChartView()
-      case .area: AreaChartMainView()
-      case .point: PointChartView()
-      case .heatmap: RectangleChartMainView()
-      case .pie: PieChartMainView()
-      case .rule: RuleMarkChartMainView()
-      case .lineAreaPoint: LineAreaPointsChartView ()
-      }
+func chartView(for type: ChartType) -> some View {
+    switch type {
+    case .bar: BarChartMainView()
+    case .line: LineChartView()
+    case .area: AreaChartMainView()
+    case .point: PointChartView()
+    case .heatmap: RectangleChartMainView()
+    case .pie: PieChartMainView()
+    case .rule: RuleMarkChartMainView()
+    case .lineAreaPoint: LineAreaPointsChartView()
+    case .chart3D: ThreeDChartsMainView()
+    }
 }
 
 #Preview {
