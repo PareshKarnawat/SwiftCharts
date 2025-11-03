@@ -9,8 +9,8 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 ## 🎬 Demo
 
 | Swift Charts Demo |
-|------------------------------|
-| ![Swift Charts Demo](Resources/SwiftChartsDemo360.mp4) |
+|-------------------|
+| <video src="https://github.com/user-attachments/assets/1b177bd7-a1ce-4f89-a431-d5f257f38291" width="300" controls></video> |
 
 ---
 
