@@ -1,0 +1,14 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# macOS
+.DS_Store
+
+SwiftChartsDemo.xcodeproj/project.xcworkspace/xcuserdata/
+SwiftChartsDemo.xcodeproj/xcuserdata/
+*.xcuserstate
