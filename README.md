@@ -16,8 +16,6 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 
 ## 🖼️ Screenshots
 
-> Add screenshots from your project to visually highlight the charts.
-
 | Bar Chart | Line Chart | Pie / Donut |
 |-----------|------------|-------------|
 | <img src="Resources/BarChart.png" width="200"/> | <img src="Resources/LineChart.png" width="200"/> | <img src="Resources/PieChart.png" width="200"/> |
@@ -91,7 +89,7 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 ## 🛠 Notes
 
 * Uses minimal abstraction to showcase raw Swift Charts concepts
-* Each example separated for learning clarity
+* Each example is separated for learning clarity
 * Great reference for beginners → intermediate Swift Charts developers
 
 ---
