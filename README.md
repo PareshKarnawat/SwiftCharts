@@ -18,17 +18,17 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 
 > Add screenshots from your project to visually highlight the charts.
 
-| Bar Chart                 | Line Chart                  | Pie / Donut               |
-| ------------------------- | --------------------------- | ------------------------- |
-| ![Bar](Resources/BarChart.png) | ![Line](Resources/LineChart.png) | ![Pie](Resources/PieChart.png) |
+| Bar Chart | Line Chart | Pie / Donut |
+|-----------|------------|-------------|
+| <img src="Resources/BarChart.png" width="200"/> | <img src="Resources/LineChart.png" width="200"/> | <img src="Resources/PieChart.png" width="200"/> |
 
-| Area Chart                | Rectangle / Heatmap         | Combined Chart            |
-| ------------------------- | --------------------------- | ------------------------- |
-| ![Area](Resources/AreaChart.png) | ![Heatmap](Resources/HeatmapChart.png) | ![Combined](Resources/CombinedChart.png) |
+| Area Chart | Rectangle / Heatmap | Combined Chart |
+|------------|---------------------|----------------|
+| <img src="Resources/AreaChart.png" width="200"/> | <img src="Resources/HeatmapChart.png" width="200"/> | <img src="Resources/CombinedChart.png" width="200"/> |
 
-| Point Chart               | RuleMark Chart              |
-| ------------------------- | --------------------------- | 
-| ![Bar](Resources/PointChart.png) | ![Line](Resources/RuleMarkChart.png) | 
+| Point Chart | RuleMark Chart |
+|-------------|----------------|
+| <img src="Resources/PointChart.png" width="200"/> | <img src="Resources/RuleMarkChart.png" width="200"/> |
 
 ---
 
