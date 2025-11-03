@@ -8,9 +8,9 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 
 ## 🎬 Demo
 
-| Swift Charts Demo |
-|-------------------|
-| <video src="https://github.com/user-attachments/assets/1b177bd7-a1ce-4f89-a431-d5f257f38291" width="300" controls></video> |
+| Swift Charts Demo | Swift 3D Charts Demo |
+| ----------------- | ----------------- |
+| <video src="https://github.com/user-attachments/assets/1b177bd7-a1ce-4f89-a431-d5f257f38291" width="300" controls></video> | <video src="https://github.com/user-attachments/assets/94beda3e-2b46-4191-9228-53ae9cbe5979" width="300" controls></video> |
 
 ---
 
@@ -24,9 +24,9 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 |------------|---------------------|----------------|
 | <img src="Resources/AreaChart.png" width="200"/> | <img src="Resources/HeatmapChart.png" width="200"/> | <img src="Resources/CombinedChart.png" width="200"/> |
 
-| Point Chart | RuleMark Chart |
-|-------------|----------------|
-| <img src="Resources/PointChart.png" width="200"/> | <img src="Resources/RuleMarkChart.png" width="200"/> |
+| Point Chart | RuleMark Chart | 3D Chart |
+|-------------|----------------|----------------|
+| <img src="Resources/PointChart.png" width="200"/> | <img src="Resources/RuleMarkChart.png" width="200"/> | <img src="Resources/3DChart.png" width="200"/> |
 
 ---
 
@@ -84,6 +84,13 @@ An iOS SwiftUI app showcasing practical examples of Apple’s Swift Charts, incl
 * Modes: Line / Area / Line+Area
 * Optional dots, curve, labels
 
+### 🧊 3D Charts (Chart3D)
+* 3D Surface Plot examples
+* Perspective vs Orthographic projection toggle
+* Supports pose rotation via `Chart3DPose`
+* Height-based surface color mode
+* Customizable X/Y/Z domain + scale
+  
 ---
 
 ## 🛠 Notes
